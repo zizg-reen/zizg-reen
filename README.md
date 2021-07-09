@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zizg-reen
-- 👀 I’m interested in culture, communications, tech and psychology.
-- 🌱 I’m currently learning more about Leardership.
-- 💞️ I’m looking to collaborate on T10’s projects.
-- 📫 How to reach me euzizverde@gmail.com / @zizverde
+- 👋  Hi, I’m @zizg-reen
+- 👀  I’m interested in culture, communications, tech and psychology.
+- 🌱  I’m currently learning more about Leardership.
+- 💞️  I’m looking to collaborate on T10’s projects.
+- 📫  How to reach me euzizverde@gmail.com / @zizverde
